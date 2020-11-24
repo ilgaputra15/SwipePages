@@ -2,4 +2,4 @@
 
 # Preview
 
-![Preview](/Preview/Preview.mov?raw=true)
+![Preview](/Preview/Preview.gif?raw=true)
